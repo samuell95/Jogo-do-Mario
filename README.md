@@ -13,7 +13,7 @@ Projeto recriado através do canal Manual do Dev, para maior entendimento do HTM
 <br>
 
 <p align="center">
-  <img alt="Receita pamonha gostosa" src="./src/assets/preview.jpg" width="100%">
+  <img alt="Jogo do Mario Bros" src="./src/assets/preview.jpg" width="100%">
 </p>
 
 ## 💡 Tecnologias
